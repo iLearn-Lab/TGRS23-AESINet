@@ -4,10 +4,11 @@
 
 ## Authors
 
-**Xiangyu Zeng**<sup>1</sup>, **Mingzhu Xu**<sup>1</sup>, **Yijun Hu**<sup>1</sup>, **Haoyu Tang**<sup>1</sup>, **Yupeng Hu**<sup>1</sup>, **Liqiang Nie**<sup>1</sup>\*
+**Xiangyu Zeng**<sup>1</sup>, **Mingzhu Xu**<sup>1</sup>\*, **Yijun Hu**<sup>1</sup>, **Haoyu Tang**<sup>1</sup>, **Yupeng Hu**<sup>1</sup>, **Liqiang Nie**<sup>2</sup>
 
 
 <sup>1</sup> `Shandong University`  
+<sup>2</sup> `Harbin Institute of Technology (Shen Zhen)`  
 \* Corresponding author
 
 ## Links
@@ -20,8 +21,6 @@
 
 ## Table of Contents
 
-
-- [Updates](#updates)
 - [Introduction](#introduction)
 - [Highlights](#highlights)
 - [Method / Framework](#method--framework)
@@ -35,14 +34,6 @@
 - [License](#license)
 
 ---
-
-## Updates
-
-- [08/2023] Paper accepted by IEEE TGRS.
-- [08/2023] Initial release of AESINet (ResNet & VGG versions) codes and checkpoints.
-
----
-
 
 ## Introduction
 
