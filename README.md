@@ -15,7 +15,7 @@
 
 
 - **Paper**: [`IEEE Xplore`](https://doi.org/10.1109/TGRS.2023.3300317)
-- **Code Repository**: [`GitHub`](https://github.com/iLearn-Lab/AESINet-TGRS)
+- **Code Repository**: [`GitHub`](https://github.com/iLearn-Lab/TGRS23-AESINet)
 
 ---
 
