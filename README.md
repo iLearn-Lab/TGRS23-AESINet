@@ -161,7 +161,7 @@ python main.py --mode=test
 ## Citation
 
 ```bibtex
-@ARTICLE{10198281,
+@ARTICLE{AESINet2023TGRS,
   author={Zeng, Xiangyu and Xu, Mingzhu and Hu, Yijun and Tang, Haoyu and Hu, Yupeng and Nie, Liqiang},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Adaptive Edge-Aware Semantic Interaction Network for Salient Object Detection in Optical Remote Sensing Images}, 
